@@ -1,0 +1,12 @@
+{
+  "name": "geschaffen-backend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Production-grade FinTech backend",
+  "scripts": {
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "build": "nest build",
+    "test": "jest"
+  }
+}
